@@ -1,3 +1,1 @@
-function adicionarAmigo(){
-    
-}
+let amigos[];
